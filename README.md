@@ -1,1 +1,3 @@
-# demo-repo
+# demo-repository
+
+This is a demo README file.
